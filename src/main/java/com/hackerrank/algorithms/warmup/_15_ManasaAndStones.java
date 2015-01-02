@@ -12,14 +12,14 @@ import java.util.Scanner;
 
 public class _15_ManasaAndStones {
     static int t;
-    static ArrayList<ArrayList<Integer>> results;
+//    static ArrayList<ArrayList<Integer>> results;
 
     public static void main(String[] args) throws NumberFormatException, IOException {
         Scanner in = new Scanner(System.in);
 
         t = in.nextInt();
 
-        results = new ArrayList<ArrayList<Integer>>();
+//        results = new ArrayList<ArrayList<Integer>>();
 
         for (int i = 0; i < t; i++) {
             int n = in.nextInt();
@@ -40,11 +40,13 @@ public class _15_ManasaAndStones {
                 Collections.sort(result);
             }
 
-            results.add(result);
+            System.out.println(result.toString().replace("[", "").replace("]", "").replace(",", ""));
+
+//            results.add(result);
         }
 
-        for (int i = 0; i < t; i++) {
-            System.out.println(results.get(i).toString().replace("[", "").replace("]", "").replace(",", ""));
-        }
+//        for (int i = 0; i < t; i++) {
+//            System.out.println(results.get(i).toString().replace("[", "").replace("]", "").replace(",", ""));
+//        }
     }
 }
