@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5afe1f3-02f6-428f-afff-10413bd2bfc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_11_FillingJars.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_12_ChocolateFeast.java" />
     </list>
     <ignored path="HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_11_FillingJars.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_11_FillingJars.java">
+      <file leaf-file-name="_12_ChocolateFeast.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_12_ChocolateFeast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4214876" vertical-offset="0" max-vertical-offset="720">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.03305785" vertical-offset="145" max-vertical-offset="750">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -69,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_09_GameOfThronesI.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_10_ACMICPCTeam.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_11_FillingJars.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_12_ChocolateFeast.java" />
       </list>
     </option>
   </component>
@@ -515,12 +515,12 @@
       <created>1420223972658</created>
       <option name="number" value="Default" />
       <updated>1420223972658</updated>
-      <workItem from="1420223975435" duration="1276000" />
+      <workItem from="1420223975435" duration="1382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1276000" />
+    <option name="totallyTimeSpent" value="1382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
@@ -684,8 +684,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_11_FillingJars.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4214876" vertical-offset="0" max-vertical-offset="720">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.57024795" vertical-offset="0" max-vertical-offset="720">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_12_ChocolateFeast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03305785" vertical-offset="145" max-vertical-offset="750">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding />
         </state>
       </provider>
