@@ -1,4 +1,4 @@
-HackerRank
+hacker_rank
 ==========
 
 HackerRank Challenges in Java
