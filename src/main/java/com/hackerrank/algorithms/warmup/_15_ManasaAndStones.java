@@ -31,16 +31,31 @@ public class _15_ManasaAndStones {
 
             ArrayList<Integer> result = new ArrayList<Integer>();
 
-            if (n == 1) {
-                result.add(0);
-            } else {
-                for (int j = 0; j < n; j++) {
-                    result.add(a * j + b * (n - 1 - j));
+            int c = a * n;
+            int max = b * n;
+            int difference = b - a;
+            if(a == b){
+                System.out.println(c);
+            }
+            else{
+                //var ansString = new StringBuilder();
+                while(c <= max){
+                    result.add(c);
+                    c += difference;
                 }
-                Collections.sort(result);
+                System.out.println(result.toString().replace("[", "").replace("]", "").replace(",", ""));
             }
 
-            System.out.println(result.toString().replace("[", "").replace("]", "").replace(",", ""));
+//            if (n == 1) {
+//                result.add(0);
+//            } else {
+//                for (int j = 0; j < n; j++) {
+//                    result.add(a * j + b * (n - 1 - j));
+//                }
+//                Collections.sort(result);
+//            }
+//
+//            System.out.println(result.toString().replace("[", "").replace("]", "").replace(",", ""));
 
 //            results.add(result);
         }
