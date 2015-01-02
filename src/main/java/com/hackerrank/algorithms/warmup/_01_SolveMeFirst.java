@@ -16,7 +16,7 @@ public class _01_SolveMeFirst {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int _a;
-        _a=  in.nextInt();
+        _a = in.nextInt();
 
         int _b;
         _b = in.nextInt();
