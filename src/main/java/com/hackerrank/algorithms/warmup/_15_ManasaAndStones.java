@@ -23,8 +23,11 @@ public class _15_ManasaAndStones {
 
         for (int i = 0; i < t; i++) {
             int n = in.nextInt();
-            int a = in.nextInt();
-            int b = in.nextInt();
+            int one = in.nextInt();
+            int two = in.nextInt();
+
+            int a = Math.min(one, two);
+            int b = Math.max(one, two);
 
             ArrayList<Integer> result = new ArrayList<Integer>();
 
@@ -41,7 +44,7 @@ public class _15_ManasaAndStones {
         }
 
         for (int i = 0; i < t; i++) {
-            System.out.println(results.get(i).toString().replace("[", "").replace("]","").replace(",",""));
+            System.out.println(results.get(i).toString().replace("[", "").replace("]", "").replace(",", ""));
         }
     }
 }
