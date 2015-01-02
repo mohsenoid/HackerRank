@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5afe1f3-02f6-428f-afff-10413bd2bfc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_06_AlternatingCharacters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_07_TheLoveLetterMystery.java" />
     </list>
     <ignored path="HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,11 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_06_AlternatingCharacters.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_06_AlternatingCharacters.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_06_AlternatingCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.024793388" vertical-offset="0" max-vertical-offset="750">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_07_TheLoveLetterMystery.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_07_TheLoveLetterMystery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.024793388" vertical-offset="0" max-vertical-offset="840">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -71,6 +81,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_05_MaximizingXOR.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_006.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_06_AlternatingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_007.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_07_TheLoveLetterMystery.java" />
       </list>
     </option>
   </component>
@@ -517,12 +529,12 @@
       <created>1420223972658</created>
       <option name="number" value="Default" />
       <updated>1420223972658</updated>
-      <workItem from="1420223975435" duration="890000" />
+      <workItem from="1420223975435" duration="972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="890000" />
+    <option name="totallyTimeSpent" value="972000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
@@ -646,8 +658,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_06_AlternatingCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.024793388" vertical-offset="0" max-vertical-offset="750">
-          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="750">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_07_TheLoveLetterMystery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024793388" vertical-offset="0" max-vertical-offset="840">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="26" />
           <folding />
         </state>
       </provider>
