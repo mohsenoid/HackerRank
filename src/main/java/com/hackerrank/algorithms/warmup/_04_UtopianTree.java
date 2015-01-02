@@ -12,12 +12,12 @@ public class _04_UtopianTree {
 
 
     static int solveMeFirst(long number) {
-        int result =1;
-        for(int i=0;i<number/2;i++){
-            result = result*2+1;
+        int result = 1;
+        for (int i = 0; i < number / 2; i++) {
+            result = result * 2 + 1;
         }
-        if(number%2!=0)
-            result=result*2;
+        if (number % 2 != 0)
+            result = result * 2;
 
         return result;
     }
@@ -32,9 +32,6 @@ public class _04_UtopianTree {
         for (int i = 0; i < count; i++) {
             numbers[i] = in.nextLong();
         }
-
-
-
 
         for (int i = 0; i < count; i++) {
             System.out.println(solveMeFirst(numbers[i]));
