@@ -13,13 +13,8 @@ public class _03_IsFibo {
 
     static ArrayList<Long> fibo;
 
-    enum FIBO {
-        IsFibo,
-        IsNotFibo
-    }
-
     static FIBO solveFibo(long number) {
-        if (fibo.get(fibo.size()-1) < number)
+        if (fibo.get(fibo.size() - 1) < number)
             updateFibo(number);
 
         if (fibo.contains(number))
@@ -29,7 +24,7 @@ public class _03_IsFibo {
     }
 
     private static void updateFibo(long number) {
-        int last = fibo.size()-1;
+        int last = fibo.size() - 1;
         long lastNumber = fibo.get(last);
 
         do {
@@ -58,5 +53,10 @@ public class _03_IsFibo {
             System.out.println(solveFibo(numbers[i]));
         }
 
+    }
+
+    enum FIBO {
+        IsFibo,
+        IsNotFibo
     }
 }
