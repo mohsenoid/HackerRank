@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5afe1f3-02f6-428f-afff-10413bd2bfc3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_14_HalloweenParty.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/HackerRank.iml" afterPath="$PROJECT_DIR$/hacker_rank.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_15_ManasaAndStones.java" />
     </list>
     <ignored path="HackerRank.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,11 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_14_HalloweenParty.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_14_HalloweenParty.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_14_HalloweenParty.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="645">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_15_ManasaAndStones.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_15_ManasaAndStones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="735">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -72,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_11_FillingJars.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_12_ChocolateFeast.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_14_HalloweenParty.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_15_ManasaAndStones.java" />
       </list>
     </option>
   </component>
@@ -518,12 +527,12 @@
       <created>1420223972658</created>
       <option name="number" value="Default" />
       <updated>1420223972658</updated>
-      <workItem from="1420223975435" duration="1514000" />
+      <workItem from="1420223975435" duration="1579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1514000" />
+    <option name="totallyTimeSpent" value="1579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
@@ -711,8 +720,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_14_HalloweenParty.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="645">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hackerrank/algorithms/warmup/_15_ManasaAndStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.049586777" vertical-offset="0" max-vertical-offset="735">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="31" />
           <folding />
         </state>
       </provider>
