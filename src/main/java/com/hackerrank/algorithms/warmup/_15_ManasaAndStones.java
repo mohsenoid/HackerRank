@@ -12,56 +12,33 @@ import java.util.Scanner;
 
 public class _15_ManasaAndStones {
     static int t;
-//    static ArrayList<ArrayList<Integer>> results;
 
     public static void main(String[] args) throws NumberFormatException, IOException {
         Scanner in = new Scanner(System.in);
 
         t = in.nextInt();
 
-//        results = new ArrayList<ArrayList<Integer>>();
-
         for (int i = 0; i < t; i++) {
             int n = in.nextInt();
-            int one = in.nextInt();
-            int two = in.nextInt();
-
-            int a = Math.min(one, two);
-            int b = Math.max(one, two);
+            int a = in.nextInt();
+            int b = in.nextInt();
 
             ArrayList<Integer> result = new ArrayList<Integer>();
 
-            int c = a * n;
-            int max = b * n;
-            int difference = b - a;
-            if(a == b){
-                System.out.println(c);
-            }
-            else{
-                //var ansString = new StringBuilder();
-                while(c <= max){
-                    result.add(c);
-                    c += difference;
+            if (n == 1) {
+                result.add(0);
+            } else {
+                for (int j = 0; j < n; j++) {
+                    int r = a * j + b * (n - 1 - j);
+                    if (!result.contains(r))
+                        result.add(r);
                 }
-                System.out.println(result.toString().replace("[", "").replace("]", "").replace(",", ""));
+                Collections.sort(result);
             }
 
-//            if (n == 1) {
-//                result.add(0);
-//            } else {
-//                for (int j = 0; j < n; j++) {
-//                    result.add(a * j + b * (n - 1 - j));
-//                }
-//                Collections.sort(result);
-//            }
-//
-//            System.out.println(result.toString().replace("[", "").replace("]", "").replace(",", ""));
+            System.out.println(result.toString().replace("[", "").replace("]", "").replace(",", ""));
 
-//            results.add(result);
         }
 
-//        for (int i = 0; i < t; i++) {
-//            System.out.println(results.get(i).toString().replace("[", "").replace("]", "").replace(",", ""));
-//        }
     }
 }
