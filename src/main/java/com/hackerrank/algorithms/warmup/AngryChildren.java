@@ -1,5 +1,8 @@
-package com.hackerrank.algorithms.warmup; /**
+package com.hackerrank.algorithms.warmup;
+/**
  * Angry Children
+ * https://www.hackerrank.com/challenges/angry-children
+ *
  * Created by Mohsen on 12/31/14.
  */
 
