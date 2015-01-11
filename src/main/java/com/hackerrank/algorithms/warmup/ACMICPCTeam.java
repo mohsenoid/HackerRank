@@ -12,7 +12,6 @@ import java.util.Scanner;
 
 public class ACMICPCTeam {
     static int n, m;
-    static String[] strings;
 
     public static void main(String[] args) throws NumberFormatException, IOException {
         Scanner in = new Scanner(System.in);
@@ -24,7 +23,7 @@ public class ACMICPCTeam {
         for (int i = 0; i < n; i++) {
             String line = in.next();
             for (int j = 0; j < m; j++)
-                numbers[i][j] = line.charAt(j) == '1' ? true : false;
+                numbers[i][j] = line.charAt(j) == '1';
         }
 
         countGroups(numbers);
