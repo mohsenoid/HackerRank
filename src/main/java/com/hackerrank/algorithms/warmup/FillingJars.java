@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class _11_FillingJars {
+public class FillingJars {
     static int n, m;
 //    static int[] jars;
 
