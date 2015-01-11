@@ -10,7 +10,7 @@ import java.util.Collections;
 import java.util.Scanner;
 
 
-public class _15_ManasaAndStones {
+public class ManasaAndStones {
     static int t;
 
     public static void main(String[] args) throws NumberFormatException, IOException {
