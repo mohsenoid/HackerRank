@@ -1,6 +1,8 @@
 package com.hackerrank.algorithms.warmup;
 /**
  * Halloween party
+ * https://www.hackerrank.com/challenges/halloween-party
+ *
  * Created by Mohsen on 1/2/15.
  */
 
