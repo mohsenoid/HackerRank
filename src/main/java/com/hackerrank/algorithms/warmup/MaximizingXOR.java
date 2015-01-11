@@ -5,7 +5,7 @@ package com.hackerrank.algorithms.warmup; /**
 
 import java.util.Scanner;
 
-public class _05_MaximizingXOR {
+public class MaximizingXOR {
 
     static int L, R;
 
