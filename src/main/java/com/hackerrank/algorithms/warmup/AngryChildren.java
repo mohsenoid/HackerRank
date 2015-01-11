@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class _08_AngryChildren {
+public class AngryChildren {
 
     static BufferedReader in = new BufferedReader(new InputStreamReader(
             System.in));
