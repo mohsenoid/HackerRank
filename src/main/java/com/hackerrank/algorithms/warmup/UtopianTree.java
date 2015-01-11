@@ -5,7 +5,7 @@ package com.hackerrank.algorithms.warmup; /**
 
 import java.util.Scanner;
 
-public class _04_UtopianTree {
+public class UtopianTree {
 
     static int count;
     static long[] numbers;
