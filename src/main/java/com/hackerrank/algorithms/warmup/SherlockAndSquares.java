@@ -1,6 +1,8 @@
 package com.hackerrank.algorithms.warmup;
 /**
  * Sherlock and Squares
+ * https://www.hackerrank.com/challenges/sherlock-and-squares
+ *
  * Created by Mohsen on 1/2/15.
  */
 
