@@ -1,5 +1,8 @@
-package com.hackerrank.algorithms.warmup; /**
+package com.hackerrank.algorithms.warmup;
+/**
  * Maximizing XOR
+ * https://www.hackerrank.com/challenges/maximizing-xor
+ *
  * Created by Mohsen on 12/31/14.
  */
 
