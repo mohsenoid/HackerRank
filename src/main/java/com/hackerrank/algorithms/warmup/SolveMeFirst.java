@@ -1,6 +1,8 @@
 package com.hackerrank.algorithms.warmup;
 /**
  * Solve me first
+ * https://www.hackerrank.com/challenges/solve-me-first
+ *
  * Created by Mohsen on 12/31/14.
  */
 
