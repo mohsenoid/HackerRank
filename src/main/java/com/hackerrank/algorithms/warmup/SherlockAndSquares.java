@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class _13_SherlockAndSquares {
+public class SherlockAndSquares {
     static int t;
     static int[] results;
 //    static ArrayList<Integer> squares;
