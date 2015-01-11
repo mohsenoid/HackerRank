@@ -4,6 +4,9 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
+ * Flipping bits
+ * https://www.hackerrank.com/challenges/flipping-bits
+ *
  * Created by Mohsen on 1/10/15.
  */
 public class FlippingBits {
