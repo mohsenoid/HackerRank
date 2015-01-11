@@ -1,6 +1,8 @@
 package com.hackerrank.algorithms.warmup;
 /**
  * Sherlock and GCD
+ * https://www.hackerrank.com/challenges/sherlock-and-gcd
+ *
  * Created by Mohsen on 1/2/15.
  */
 
