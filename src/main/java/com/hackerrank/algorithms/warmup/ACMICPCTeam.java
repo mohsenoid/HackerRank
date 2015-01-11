@@ -1,5 +1,8 @@
-package com.hackerrank.algorithms.warmup; /**
+package com.hackerrank.algorithms.warmup;
+/**
  * ACM ICPC Team
+ * https://www.hackerrank.com/challenges/acm-icpc-team
+ *
  * Created by Mohsen on 1/1/15.
  */
 
