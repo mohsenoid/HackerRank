@@ -6,7 +6,6 @@ package com.hackerrank.algorithms.warmup;
  * Created by Mohsen on 1/1/15.
  */
 
-
 import java.io.IOException;
 import java.util.Scanner;
 
