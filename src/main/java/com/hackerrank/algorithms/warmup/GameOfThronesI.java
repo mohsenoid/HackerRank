@@ -1,5 +1,8 @@
-package com.hackerrank.algorithms.warmup; /**
+package com.hackerrank.algorithms.warmup;
+/**
  * Game of Thrones - I
+ * https://www.hackerrank.com/challenges/game-of-thrones
+ *
  * Created by Mohsen on 1/1/15.
  */
 
