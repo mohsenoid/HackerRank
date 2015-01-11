@@ -1,5 +1,8 @@
-package com.hackerrank.algorithms.warmup; /**
+package com.hackerrank.algorithms.warmup;
+/**
  * Alternating Characters
+ * https://www.hackerrank.com/challenges/alternating-characters
+ *
  * Created by Mohsen on 12/31/14.
  */
 
