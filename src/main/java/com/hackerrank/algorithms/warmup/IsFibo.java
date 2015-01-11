@@ -6,7 +6,7 @@ package com.hackerrank.algorithms.warmup; /**
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class _03_IsFibo {
+public class IsFibo {
 
     static int count;
     static long[] numbers;
