@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class _12_ChocolateFeast {
+public class ChocolateFeast {
     static int t;
     static int[] results;
 
