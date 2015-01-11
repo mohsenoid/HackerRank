@@ -1,6 +1,8 @@
 package com.hackerrank.algorithms.warmup;
 /**
  * Chocolate Feast
+ * https://www.hackerrank.com/challenges/chocolate-feast
+ *
  * Created by Mohsen on 1/2/15.
  */
 
