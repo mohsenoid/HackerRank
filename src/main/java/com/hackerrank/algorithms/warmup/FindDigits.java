@@ -5,7 +5,7 @@ package com.hackerrank.algorithms.warmup; /**
 
 import java.util.Scanner;
 
-public class _02_FindDigits {
+public class FindDigits {
 
     static int count;
     static int[] numbers;
