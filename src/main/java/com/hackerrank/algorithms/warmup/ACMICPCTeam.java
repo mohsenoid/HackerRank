@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class _10_ACMICPCTeam {
+public class ACMICPCTeam {
     static int n, m;
     static String[] strings;
 
