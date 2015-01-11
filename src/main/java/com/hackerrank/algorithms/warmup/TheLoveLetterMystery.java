@@ -1,5 +1,8 @@
-package com.hackerrank.algorithms.warmup; /**
+package com.hackerrank.algorithms.warmup;
+/**
  * The Love-Letter Mystery
+ * https://www.hackerrank.com/challenges/the-love-letter-mystery
+ *
  * Created by Mohsen on 12/31/14.
  */
 
