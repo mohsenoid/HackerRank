@@ -1,4 +1,5 @@
-package com.hackerrank.algorithms.warmup; /**
+package com.hackerrank.algorithms.warmup;
+/**
  * Is Fibo
  * https://www.hackerrank.com/challenges/is-fibo
  *
