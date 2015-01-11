@@ -5,7 +5,7 @@ package com.hackerrank.algorithms.warmup; /**
 
 import java.util.Scanner;
 
-public class _06_AlternatingCharacters {
+public class AlternatingCharacters {
 
     static int count;
     static String[] strings;
