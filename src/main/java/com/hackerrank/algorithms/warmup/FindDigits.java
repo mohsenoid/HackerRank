@@ -1,5 +1,8 @@
-package com.hackerrank.algorithms.warmup; /**
+package com.hackerrank.algorithms.warmup;
+/**
  * Find Digits
+ * https://www.hackerrank.com/challenges/find-digits
+ *
  * Created by Mohsen on 12/31/14.
  */
 
