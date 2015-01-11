@@ -6,7 +6,7 @@ package com.hackerrank.algorithms.warmup;
 
 import java.util.Scanner;
 
-public class _01_SolveMeFirst {
+public class SolveMeFirst {
 
 
     static int solveMeFirst(int a, int b) {
