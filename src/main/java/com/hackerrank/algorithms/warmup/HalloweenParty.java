@@ -8,7 +8,7 @@ import java.io.IOException;
 import java.util.Scanner;
 
 
-public class _14_HalloweenParty {
+public class HalloweenParty {
     static int t;
     static long[] results;
 
