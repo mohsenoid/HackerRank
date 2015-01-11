@@ -7,7 +7,7 @@ package com.hackerrank.algorithms.warmup; /**
 import java.io.IOException;
 import java.util.Scanner;
 
-public class _09_GameOfThronesI {
+public class GameOfThronesI {
 
     public static void main(String[] args) throws NumberFormatException, IOException {
         Scanner myScan = new Scanner(System.in);
