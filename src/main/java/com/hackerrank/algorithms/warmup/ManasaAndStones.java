@@ -1,6 +1,8 @@
 package com.hackerrank.algorithms.warmup;
 /**
  * Manasa and Stones
+ * https://www.hackerrank.com/challenges/manasa-and-stones
+ *
  * Created by Mohsen on 1/2/15.
  */
 
