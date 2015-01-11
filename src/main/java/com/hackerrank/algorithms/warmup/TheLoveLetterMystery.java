@@ -5,7 +5,7 @@ package com.hackerrank.algorithms.warmup; /**
 
 import java.util.Scanner;
 
-public class _07_TheLoveLetterMystery {
+public class TheLoveLetterMystery {
 
     static int count;
     static String[] strings;
