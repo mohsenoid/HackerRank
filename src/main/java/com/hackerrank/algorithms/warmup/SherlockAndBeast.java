@@ -34,25 +34,20 @@ public class SherlockAndBeast {
                 r5 = r3 % 5;
             }
 
-            String result = "";
-
             if (r5 != 0) {
-                result = "-1";
+                System.out.print("-1");
             } else {
                 for (int j = 0; j < m3; j++) {
-                    result += "555";
+                    System.out.print("555");
                 }
 
                 for (int j = 0; j < m5; j++) {
-                    result += "33333";
+                    System.out.print("33333");
                 }
             }
 
-            System.out.println(result);
+            System.out.println();
 
         }
-
     }
-
-
 }
