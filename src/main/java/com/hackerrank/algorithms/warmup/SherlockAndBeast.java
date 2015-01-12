@@ -21,43 +21,43 @@ public class SherlockAndBeast {
 
         results = new String[t];
 
+        boolean flag = false;
+
         for (int i = 0; i < t; i++) {
             int n = in.nextInt();
 
-            int m3 = n / 3;
-            int r3 = n % 3;
+            int n5 = n / 3;
+            int n3 = n - n5 * 3;
+            while (n5 > 0 && n3 > 0 && n3 % 5 != 0) {
+                n5--;
+                n3 = n - n5 * 3;
 
-            int m5 = r3 / 5;
-            int r5 = r3 % 5;
-            while (r5 != 0 && m3 > 0) {
-                r3 += 3;
-                m3--;
-
-                m5 = r3 / 5;
-                r5 = r3 % 5;
+            }
+            if (n3 % 5 == 0) {
+                flag = true;
             }
 
             String result = "";
 
-            if (r5 != 0) {
+            if (flag == false) {
                 result = "-1";
             } else {
-                for (int j = 0; j < m3; j++) {
+                //int n3 = (int) n3_d;
+                while (n5 > 0) {
                     result += "555";
+                    n5--;
                 }
-
-                for (int j = 0; j < m5; j++) {
-                    result += "33333";
+                while (n3 > 0) {
+                    result += "3";
+                    n3--;
                 }
             }
 
             results[i] = result;
         }
-
         for (int i = 0; i < t; i++) {
             System.out.println(String.valueOf(results[i]));
         }
+
     }
-
-
 }
