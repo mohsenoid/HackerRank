@@ -3,7 +3,7 @@ hacker_rank
 
 HackerRank Challenges in Java
 
-SPOIL DANGER!!!
+SPOIL ALERT!!!
 :)
 
 all challenges are available in:
