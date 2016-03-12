@@ -26,5 +26,8 @@
         <module name="HackerRank" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hacker_rank" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
