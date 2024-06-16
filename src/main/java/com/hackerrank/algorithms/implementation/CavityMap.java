@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Cavity Map
  * https://www.hackerrank.com/challenges/cavity-map
- * <p/>
+ * 
  * Created by Mohsen on 1/12/15.
  */
 
