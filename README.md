@@ -1,13 +1,8 @@
 # HackerRank
-HackerRank is the market-leading coding test and interview solution for hiring developers. Start hiring at the pace of innovation!
+
+[HackerRank](https://hackerrank.com) is the market-leading coding test and interview solution for hiring developers. Start hiring at the pace of innovation!
 
 This repo holds my solutions for HackerRank Challenges in Java.
-
-SPOILER ALERT!!!
-:)
-
-All challenges are available in:
-http://www.hackerrank.com
 
 ## Table of contents
 
